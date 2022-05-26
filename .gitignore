@@ -37,4 +37,4 @@ out/
 .vscode/
 
 # local properties
-/src/main/resources/application_local.properties
+/src/main/resources/application-local.properties
